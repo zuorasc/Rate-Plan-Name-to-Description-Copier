@@ -1,0 +1,9 @@
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\bin\Debug\ProductCatalogNameToDescriptionMover.exe.config
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\bin\Debug\ProductCatalogNameToDescriptionMover.exe
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\bin\Debug\ProductCatalogNameToDescriptionMover.pdb
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\obj\x86\Debug\ProductCatalogNameToDescriptionMover.exe
+C:\Users\mdemin\AppData\Local\Temporary Projects\ProductCatalogNameToDescriptionMover\obj\x86\Debug\ProductCatalogNameToDescriptionMover.pdb
+C:\Users\mdemin\Documents\Visual Studio 2010\Projects\ProductCatalogNameToDescriptionMover\ProductCatalogNameToDescriptionMover\bin\Debug\ProductCatalogNameToDescriptionMover.exe.config
+C:\Users\mdemin\Documents\Visual Studio 2010\Projects\ProductCatalogNameToDescriptionMover\ProductCatalogNameToDescriptionMover\obj\x86\Debug\ProductCatalogNameToDescriptionMover.exe
+C:\Users\mdemin\Documents\Visual Studio 2010\Projects\ProductCatalogNameToDescriptionMover\ProductCatalogNameToDescriptionMover\obj\x86\Debug\ProductCatalogNameToDescriptionMover.pdb
